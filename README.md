@@ -15,3 +15,5 @@ Despues de terminar la estructura del robot necesitaba añadirle luces y textura
 Para las texturas use addons que estaban ya instalados, para concretar use el Materials Library, y a partir de ahi fue ir probando cada material hasta conseguir un resultado parecido al robot original.
 
 Para la renderizacion he emperentado la camara a un empty que se encontraba en el centro de la escena y luego puesto un keyframe en el cubo a 0 grados y otro a 360 grados para que la camara haga un giro completo al rededor del robot.
+
+https://github.com/clases-julio/proyecto-modelado3d-Josetost/blob/master/untitled.png
