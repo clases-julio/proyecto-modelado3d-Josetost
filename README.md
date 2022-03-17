@@ -16,3 +16,9 @@ Para las texturas use addons que estaban ya instalados, para concretar use el Ma
 
 Para la renderizacion he emperentado la camara a un empty que se encontraba en el centro de la escena y luego puesto un keyframe en el cubo a 0 grados y otro a 360 grados para que la camara haga un giro completo al rededor del robot.
 
+![untitled](https://user-images.githubusercontent.com/73531592/158713508-8d33af83-9140-4e18-b0be-2b64fb63e4bc.png)
+
+![untitled1](https://user-images.githubusercontent.com/73531592/158713523-0dc1787e-00e0-4378-b240-b4d46daad1c1.png)
+
+https://user-images.githubusercontent.com/73531592/158713535-13526ba7-4a33-46cc-b76d-a5d792200970.mp4
+
